@@ -68,3 +68,7 @@ apply시 에러나기 전의 사항들은 전부 실행되기에 plan으로 디�
 `terraform destroy`
 
 테라폼으로 구축한 서비스들을 shutdown
+
+
+
+## 조금이나마 도움이 되셨다면 Star 한번씩 눌러주시면 감사하겠습니다 !

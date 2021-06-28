@@ -199,5 +199,5 @@ terraform.exe
 *.pub
 *.ppk
 *.pub
-# key-value.tf
-# key.tf
+key-value.tf
+key.tf

@@ -1,7 +1,7 @@
 # Route 53 설정
 
 data "aws_route53_zone" "main" {
-  name         = "bingo-dev.com"
+  name         = "" # 본인의 도메인 삽입 (ex. ~~~.com)
   private_zone = false
 }
 
