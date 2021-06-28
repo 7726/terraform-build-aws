@@ -16,7 +16,7 @@ resource "aws_cloudfront_distribution" "main-cf" {
     }
   }
 
-  aliases = ["www.bingo-dev.com"]
+  aliases = [""]   # 도메인 삽입 (ex. www.~~~~.com)
   enabled = true
   is_ipv6_enabled = false
   comment = "Created By Terraform"
